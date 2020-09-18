@@ -5,4 +5,8 @@ const prepand = arr;
 const removeLast = arr;
 const removeFirst = arr;
 
-append.
+append.push("Odie");
+
+prepend.shift("Odie");
+
+removeLast.pop()
