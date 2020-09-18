@@ -1,7 +1,7 @@
 const arr = ["Milo", "Otis", "Garfield"];
 
 const append = arr;
-const prepand = arr;
+const prepend = arr;
 const removeLast = arr;
 const removeFirst = arr;
 
