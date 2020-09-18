@@ -1,9 +1,13 @@
 const arr = ["Milo", "Otis", "Garfield"];
 
 const append = arr;
+console.log(append);
 const prepend = arr;
+console.log(prepend);
 const removeLast = arr;
+console.log(removeLast);
 const removeFirst = arr;
+console.log(removeFirst);
 
 append.push("Odie");
 console.log(append);
