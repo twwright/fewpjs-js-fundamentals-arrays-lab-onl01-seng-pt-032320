@@ -5,4 +5,4 @@ const prepand = arr;
 const removeLast = arr;
 const removeFirst = arr;
 
-const append = append.
+append.
